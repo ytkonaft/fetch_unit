@@ -19,7 +19,9 @@
       "img": "https://habrastorage.org/webt/cv/hq/ec/cvhqecrzfz3pmhsrwgiqyurdurm.jpeg",
       "description": "Никакой информации по нему я найти не смог. Внешний вид:",
       "link": "https://habr.com/ru/post/504700/",
-      "tags": ["Старое железо"]
+      "tags": [
+        "Старое железо"
+      ]
     },
     {
       "id": "4c7964b0-597b-4cc3-adb9-6d779162015b",
@@ -53,9 +55,36 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
       "description": "Мне действительно нравится работать с VueJS и каждый раз, когда я это делаю, я глубже погружаюсь в его возможности и фичи. В этой статье я представляю вам 10 классных советов и приемов, о которых вы возможно не знали и попытаюсь помочь вам стать лучшим разработчиком на VueJS.",
       "link": "https://habr.com/ru/post/471212/",
-      "tags": ["Разработка веб-сайтов", "JavaScript", "VueJS"]
+      "tags": [
+        "Разработка веб-сайтов",
+        "JavaScript",
+        "VueJS"
+      ]
+    },
+    {
+      "id": "mw5IwNU"
+    },
+    {
+      "id": "klnWRdq"
+    },
+    {
+      "id": "vVnyuw4"
+    },
+    {
+      "id": "S2-neRC"
+    },
+    {
+      "id": "rkRPOT0"
+    },
+    {
+      "id": "QSq-kz1"
+    },
+    {
+      "id": "d8K1dRh"
     }
   ],
   "favorite": [],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
